@@ -1,0 +1,10 @@
+Hello Everyone,   
+Good evening.  
+I will be your instructor for this class, an Introduction to Linux. 
+I have attached a Pre-Survey which I would like you to fill out and send back to me as soon as you can. 
+I have also attached the course syllabus for you to review.    
+This class will be an "online" course due to the current state of COVID-19.
+Thus, at the bottom of this email, you will have the Zoom video conference call information to connect to the class.   
+To prepare for the class, please download and install Oracle VirtualBox from https://www.virtualbox.org/wiki/Downloads.  Feel free to use the following YouTube link for instructions on how to install Oracle VirtualBox ( https://www.youtube.com/watch?v=8mns5yqMfZk ).  Do not create a VM at this time.    Please also download both of the following Linux distributions:    Ubuntu 20.04.1 Desktop  ( ~2.6GB )   1. go to https://ubuntu.com/download/desktop   2. download Ubuntu 20.04.1 LTS    CentOS 7.9 ( ~4.4GB )  
+1. go to http://mirror.dal.nexril.net/centos/7.9.2009/isos/x86_64/ 
+2. choose and download the file CentOS-7-x86_64-DVD-2009.iso
